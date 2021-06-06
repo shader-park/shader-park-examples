@@ -1,2 +1,2 @@
 # shader-park-examples
-Examples projects using Shader Park.
+Example projects using Shader Park.
