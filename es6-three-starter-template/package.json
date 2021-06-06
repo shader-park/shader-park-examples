@@ -1,0 +1,21 @@
+{
+  "name": "es6-starter-template",
+  "version": "1.0.0",
+  "description": "Starter template with Shader Park",
+  "main": "index.js",
+  "repository": "https://github.com/shader-park/shader-park-examples",
+  "author": "Torin Blankensmith & Peter Whidden",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "shader-park-core": "^0.0.270",
+    "three": "^0.129.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

@@ -1,0 +1,26 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  width: 100vw; 
+  height: 100vh; 
+  margin : 0px; 
+  padding : 0px; 
+  border : 0px; 
+  background-color : white;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+canvas {
+  width: 100%;
+  height: 100%;
+  margin : 0px;
+  padding : 0px;
+  border : 0px;
+  background-color : transparent;
+}
