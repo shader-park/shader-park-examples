@@ -1,5 +1,5 @@
 # Shader Park Example Templates 🎉
-Example templates using Shader Park.
+Example templates for [Shader Park](https://shaderpark.netlify.com/) using [shader-park-core](https://github.com/shader-park/shader-park-core).
 
 <br/>
 
