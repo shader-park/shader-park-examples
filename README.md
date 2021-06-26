@@ -32,7 +32,9 @@ Examples are hosted on Glitch to quickly preview and live edit.
 
 [Starter Template](https://glitch.com/edit/#!/shader-park-template)
 
-[Starter Template With Interactivity](https://glitch.com/edit/#!/shader-park-interactive)
+[Starter Template With Mouse Interactivity](https://glitch.com/edit/#!/shader-park-interactive)
+
+[Starter Template With Scroll Interactivity](https://glitch.com/edit/#!/shader-park-interactive-scroll)
   
 [Starter Template with GLSL (yes there's a glsl library you can still access instead of javascript)](https://glitch.com/edit/#!/shader-park-template-glsl)
   
