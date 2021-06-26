@@ -8,13 +8,20 @@ Example templates for [Shader Park](https://shaderpark.netlify.com/) using [shad
 Examples using Shader Park as an npm package are listed as folders in this repo with info in each Readme.
 
 [es6-starter-template](es6-starter-template/): Quick start using shader-park-core and parcel
+
 [es6-three-starter-template](es6-three-starter-template/): Quick start using three.js, shader-park-core and parcel
 
 TODO:
+
+hicetnunc-template
+
 es6-starter-interactive-template
+
 es6-starter-three-interactive-template
-react
-react3fiber
+
+react-template
+
+react3fiber-template
 
 
 <br/>
