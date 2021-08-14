@@ -46,5 +46,6 @@ Examples are hosted on Glitch to quickly preview and live edit.
 
 [Three.js Text Template](https://glitch.com/edit/#!/shader-park-three-js-text)
 
+[Three.js WebXR Template](https://glitch.com/edit/#!/shader-park-webxr)
 
 
