@@ -11,9 +11,9 @@ Examples using Shader Park as an npm package are listed as folders in this repo 
 
 [es6-three-starter-template](es6-three-starter-template/): Quick start using three.js, shader-park-core and parcel
 
-TODO:
+[nft-hicetnunc-three-template](nft-hicetnunc-three-template/): Create your own interactive NFT using Shader Park and host it on Hic et Nunc
 
-hicetnunc-template
+TODO:
 
 es6-starter-interactive-template
 
