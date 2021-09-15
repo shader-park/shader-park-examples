@@ -1,4 +1,4 @@
-# HTML Three.js Template
+# HTML Shader Park + Three.js Template
 
 All HTML content needs to be minted in a zip file. You can have multiple files inside your zip, however there are a few requirements you can't miss.
 
