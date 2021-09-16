@@ -8,5 +8,4 @@ All HTML content needs to be minted in a zip file. You can have multiple files i
 
 Regardless of what content you want to display (three.js, pixi.js, canvas, p5.js, shaders etc), it should always be full width and full height (window.innerWidth and window.innerHeight) so please dont forget to include your own resize function.
 
-Hope you guys enjoy!
-Hicetnunc team
+Hope you all enjoy!
