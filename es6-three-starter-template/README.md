@@ -35,4 +35,4 @@ let mesh = createSculptureWithGeometry(geometry, spCode, () => ( {
 If you change the background / renderer color you can have shader park match the same lighting by using `backgroundColor(.2, .2, .2);` in your spCode and setting the r,g, b accordingly.
 
 
-Find out more about [Shader Park](https://shaderpark.netlify.com/).
+Find out more about [Shader Park](https://shaderpark.com/).
