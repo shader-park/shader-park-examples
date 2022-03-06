@@ -12,9 +12,9 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "shader-park-core": "^0.0.26"
+    "shader-park-core": "^0.1.5"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.3.2"
   }
 }

@@ -12,10 +12,10 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "shader-park-core": "^0.0.270",
-    "three": "^0.129.0"
+    "shader-park-core": "^0.1.5",
+    "three": "^0.138.3"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.3.2"
   }
 }
