@@ -5,10 +5,14 @@
 
 export function spCode()  {
   // Put your Shader Park Code here
-  rotateY(-0.1 * time);
-  let n = noise(getSpace() * 40 + time + 10000000);
-  color(vec3(0, 0, .5) + normal * .2);
-  metal(n);
-  shine(n);
-  sphere(0.5 + n * nsin(time) * 3);
+  rotateY(mouse.x * PI / 2 + time*.5);
+  rotateX(mouse.y * PI / 2);
+  metal(.5);
+  shine(.4);
+  color(getRayDirection()+.2);
+  rotateY(getRayDirection().y*4+time)
+  boxFrame(vec3(.4), .02);
+  expand(.02);
+  blend(nsin(time)*.6)
+  sphere(.2);
 };
