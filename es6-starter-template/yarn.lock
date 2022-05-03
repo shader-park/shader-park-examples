@@ -575,6 +575,11 @@
     chrome-trace-event "^1.0.2"
     nullthrows "^1.1.1"
 
+"@shaderfrog/glsl-parser@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@shaderfrog/glsl-parser/-/glsl-parser-0.2.1.tgz#3963416c64916985fa1f3374975de5cc94986b91"
+  integrity sha512-rqbvfbDnDM+KP06DPZfbriBnSu6YDnBrrVNAOaIxZA3qWGyKsVoS/Xv5VkXD48kZ//q0YZhKAb10pVT4+mdTqg==
+
 "@swc/helpers@^0.2.11":
   version "0.2.14"
   resolved "https://registry.yarnpkg.com/@swc/helpers/-/helpers-0.2.14.tgz#20288c3627442339dd3d743c944f7043ee3590f0"
@@ -1473,11 +1478,12 @@ semver@^5.7.0, semver@^5.7.1:
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
 
-shader-park-core@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/shader-park-core/-/shader-park-core-0.1.5.tgz#fd77803e3caf718f6114f83816a91508e6103d69"
-  integrity sha512-ojXijtIZDZDgw2OkFp9FsxytUclLJVb8xo6ujMKWKopmT9hR2iLsl9UAPyIhVKUC28fDxHqkUmMJmRJ3DKqpiA==
+shader-park-core@^0.1.15:
+  version "0.1.15"
+  resolved "https://registry.yarnpkg.com/shader-park-core/-/shader-park-core-0.1.15.tgz#0c3d9ba1c70091f913fe1e3ad702cd03911f5006"
+  integrity sha512-vDLIwkr2EM/gvJv2IK/fI9T6IcGNqFYEi1OtM1rtXW4hxg6SAOwAcBrV70cAQIvP4le/YOmu6HLaYuDtzBFiUQ==
   dependencies:
+    "@shaderfrog/glsl-parser" "^0.2.1"
     escodegen "^1.11.1"
     esprima "^4.0.1"
     three "^0.138.3"
