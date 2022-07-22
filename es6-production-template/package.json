@@ -13,7 +13,7 @@
     "preval": "babel --plugins babel-plugin-preval index.js"
   },
   "dependencies": {
-    "shader-park-core": "^0.1.15"
+    "shader-park-core": "^0.1.28"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.10",
