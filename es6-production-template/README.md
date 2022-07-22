@@ -1,3 +1,4 @@
+# NOTE THIS TEMPLATE IS A WIP please look at other examples
 # Welcome to the Shader Park Template🎉
 =================
 

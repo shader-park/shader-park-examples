@@ -1718,6 +1718,11 @@ parse-json@^5.0.0:
     json-parse-even-better-errors "^2.3.0"
     lines-and-columns "^1.1.6"
 
+path-browserify@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/path-browserify/-/path-browserify-1.0.1.tgz#d98454a9c3753d5790860f16f68867b9e46be1fd"
+  integrity sha512-b7uo2UCUOYZcnF/3ID0lulOJi/bafxa1xPe7ZPsammBSpjSWQkjNxlt635YGS2MiR9GjvuXCtz2emr3jbsz98g==
+
 path-is-absolute@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
@@ -2000,6 +2005,11 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
+process@^0.11.10:
+  version "0.11.10"
+  resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
+  integrity sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A==
+
 react-refresh@^0.9.0:
   version "0.9.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.9.0.tgz#71863337adc3e5c2f8a6bfddd12ae3bfe32aafbf"
@@ -2056,10 +2066,10 @@ semver@^6.3.0:
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.0.tgz#ee0a64c8af5e8ceea67687b133761e1becbd1d3d"
   integrity sha512-b39TBaTSfV6yBrapU89p5fKekE2m/NwnDocOVruQFS1/veMgdzuPcnOM34M6CwxW8jH/lxEa5rBoDeUwu5HHTw==
 
-shader-park-core@^0.1.29:
-  version "0.1.29"
-  resolved "https://registry.yarnpkg.com/shader-park-core/-/shader-park-core-0.1.29.tgz#d8c23d053ef83c743d8ffbb2ae4087d72a3e7e22"
-  integrity sha512-9yxmxtPpGxw51dodGL5PgiM9BUH3qb1XpSoQhh54gIkkLL6ywJqWBf3mziqpC7kmIcRdwOdcOINXgpQcIEAkZw==
+shader-park-core@^0.1.30:
+  version "0.1.30"
+  resolved "https://registry.yarnpkg.com/shader-park-core/-/shader-park-core-0.1.30.tgz#8d537237048a58d5b6d01ca0f368b213bfcdb735"
+  integrity sha512-JWVSpCYfWR9UaixCfUx2mqtgX5G9DNc0C6cmSK/2xf/FRGKQmweJEA6pvP5ZEXV1TpiklEJig3nR+3joQfR1aw==
   dependencies:
     "@shaderfrog/glsl-parser" "^0.2.1"
     escodegen "^1.11.1"
