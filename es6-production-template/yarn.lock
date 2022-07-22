@@ -888,7 +888,7 @@ anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-babel-plugin-macros@^3.0.1, babel-plugin-macros@^3.1.0:
+babel-plugin-macros@^3.0.1:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-macros/-/babel-plugin-macros-3.1.0.tgz#9ef6dc74deb934b4db344dc973ee851d148c50c1"
   integrity sha512-Cg7TFGpIr01vOQNODXOOaGz2NpCU5gl8x1qJFbb6hbZxR7XrcE2vtbAsTAbJ7/xwJtUuJEw8K8Zr/AE0LHlesg==
@@ -897,7 +897,7 @@ babel-plugin-macros@^3.0.1, babel-plugin-macros@^3.1.0:
     cosmiconfig "^7.0.0"
     resolve "^1.19.0"
 
-babel-plugin-preval@^5.0.0, babel-plugin-preval@^5.1.0:
+babel-plugin-preval@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-preval/-/babel-plugin-preval-5.1.0.tgz#6efb89bf6b97af592cd1400c6df49c0e9e6ab027"
   integrity sha512-G5R+xmo5LS41A4UyZjOjV0mp9AvkuCyUOAJ6TOv/jTZS+VKh7L7HUDRcCSOb0YCM/u0fFarh7Diz0wjY8rFNFg==
@@ -1999,13 +1999,6 @@ prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
-
-preval.macro@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/preval.macro/-/preval.macro-5.0.0.tgz#bb9e0e0cd06aee094dd84eed89851b5a7337cc2f"
-  integrity sha512-+OZRqZYx1pjZ7H5Jis8bPFXkiT7lwA46UzAT4IjuzFVKwkJK+TwIx1TCqrqNCf8U3e5O12mEJEz1BXslkCLWfQ==
-  dependencies:
-    babel-plugin-preval "^5.0.0"
 
 react-refresh@^0.9.0:
   version "0.9.0"
