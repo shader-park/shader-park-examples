@@ -17,8 +17,6 @@ To build:
 yarn build
 ```
 
-Write your Shader Park code in the spCode.js file
-Just paste your code from Shader Park into the `spCode()` function.
-
+Write your Shader Park code in the spCode string inside index.js
 
 Find out more about [Shader Park](https://shaderpark.netlify.com/).
