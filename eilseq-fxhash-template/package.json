@@ -1,0 +1,19 @@
+{
+  "name": "vite-fxhash",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "vite-plugin-zip-pack": "^1.0.5"
+  },
+  "dependencies": {
+    "shader-park-core": "^0.1.38",
+    "three": "^0.148.0"
+  }
+}
