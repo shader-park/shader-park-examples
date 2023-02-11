@@ -14,7 +14,7 @@ Examples using Shader Park as an npm package are listed as folders in this repo 
 
 [nft-hicetnunc-three-template](nft-hicetnunc-three-template/): Create your own interactive NFT using Shader Park and host it on Hic et Nunc
 
-[eilseq-fxhash-template](eilseq-fxhash-template/): Create FXHash bundle using Shader Park, Three.js and Vite
+[vite-fxhash-template](vite-fxhash-template/): Create FXHash bundle using Shader Park, Three.js and Vite. Derived from EILSEQ's artwork [Miss Lexotan](https://www.fxhash.xyz/generative/24475)
 
 TODO:
 
