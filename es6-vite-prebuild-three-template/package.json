@@ -1,0 +1,21 @@
+{
+  "name": "es6-starter-template",
+  "version": "1.0.0",
+  "description": "Starter template with Shader Park",
+  "default": "dist/index.html",
+  "repository": "https://github.com/shader-park/shader-park-examples",
+  "author": "Torin Blankensmith & Peter Whidden",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.146.0"
+  },
+  "devDependencies": {
+    "shader-park-core": "^0.1.41",
+    "vite": "^4.4.9"
+  }
+}
