@@ -8,13 +8,14 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
-    "shader-park-core": "^0.1.29"
+    "shader-park-core": "^0.1.41"
   },
   "devDependencies": {
-    "parcel": "^2.3.2"
+    "vite": "4.4.x"
   }
 }

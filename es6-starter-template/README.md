@@ -3,17 +3,17 @@
 
 To setup run:
 ```
-yarn install
+npm i
 ```
 
 To start the server:
 ```
-yarn start
+npm run dev
 ```
 
 To build:
 ```
-yarn build
+npm run build
 ```
 
 Write your Shader Park code in the spCode.js file
