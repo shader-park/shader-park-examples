@@ -53,6 +53,8 @@ let controls = new OrbitControls( camera, renderer.domElement, {
 let render = () => {
   requestAnimationFrame( render );
   material.uniforms.time.value += 0.015;
+  // you can update custom "input" unifoms defined in the shader like this
+  material.uniforms.exampleExternalInput.value = Math.sin(material.uniforms.time.value);
   controls.update();
   renderer.render( scene, camera );
 };
