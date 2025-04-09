@@ -18,6 +18,10 @@ Examples using Shader Park as an npm package are listed as folders in this repo 
 
 [vite-fxhash-template](vite-fxhash-template/): Create FXHash bundle using Shader Park, Three.js and Vite. Derived from EILSEQ's artwork [Miss Lexotan](https://www.fxhash.xyz/generative/24475)
 
+## Using Shader Park with p5.js
+See this example:  
+https://editor.p5js.org/pdubs/sketches/GNk9KFhzo
+
 TODO:
 
 es6-starter-interactive-template
